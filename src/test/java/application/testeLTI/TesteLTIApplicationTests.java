@@ -1,10 +1,10 @@
-package br.cesed.lsi.exemplo1;
+package application.testeLTI;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class Exemplo1ApplicationTests {
+class TesteLTIApplicationTests {
 
 	@Test
 	void contextLoads() {
